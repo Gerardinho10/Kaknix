@@ -1,2 +1,6 @@
-# Kaknix
-Android application project
+# Kaknix app
+
+Android application project for a student junior enterprise.
+
+
+
